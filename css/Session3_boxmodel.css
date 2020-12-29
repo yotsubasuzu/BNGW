@@ -1,0 +1,51 @@
+img{
+    max-width: 100%;
+}
+div{
+    float:left;
+    width: calc(33% - 40px);
+    height: 25%;
+    /*border: 1px solid #f0f0f0;*/
+    padding: 20px; /* 15px 10px 20px 25px*/
+    margin: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px #000000;
+    border-radius: 5px;
+    display: block;
+    opacity: 100%;
+    transition: all 500ms;
+}
+div:hover{
+    background-color: #697063;
+}
+#first{
+    background-color: darkslateblue;
+}
+#last{
+    background-color: saddlebrown;
+}
+.C1{
+    background-color: darkslateblue;
+}
+.C2{
+    background-color: darksalmon;
+}
+.C3{
+    background-color: saddlebrown;
+}
+/*Mức độ ưu tiên*/
+#ppx{
+    color: #2d0010;
+}
+.pp{
+    color: coral;
+}
+body div p{
+    color: aliceblue;
+}
+div p{
+    color: chocolate;
+}
+p{
+    color: darkviolet; /*/!important
+}
