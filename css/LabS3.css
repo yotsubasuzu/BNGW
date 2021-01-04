@@ -33,7 +33,7 @@ h5{
     background-color: rgb(241,241,241);
     width: 40px;
     /*display: block;*/
-    height: 780px;
+    height: 850px;
 }
 .top{
     background-color: rgb(186,195,204);
@@ -51,14 +51,14 @@ h5{
     width: 750px;
     box-sizing: border-box;
     display: block;
-    height: 780px;
+    height: 850px;
     padding: 50px;
 }
 .left{
     background-color: rgb(233,233,233);
     float: left;
     width: 210px;
-    height: 900px;
+    height: 970px;
     box-sizing: border-box;
     display: block;
     margin-top: -120px;
