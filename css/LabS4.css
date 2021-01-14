@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: #222222;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    text-align: center;
+    font-family: "Open Sans";
+}
+.page{
+    width: 880px;
+    margin-left: 26%;
+    margin-top: 5%;
+    background-color: #f5f4f4;
+    height: 800px;
+}
+.top{
+    float: top;
+    text-align: left;
+    height: 50px;
+    padding: 8px;
+    width: 820px;
+    background-color: #ffffff;
+}
+img{
+    max-width: 100%;
+    width: 180px;
+}
+div{
+    float: left;
+    width: 180px;
+    display: block;
+    margin: 20px;
+    background-color: white;
+    height: 320px;
+}
+div.black{
+    padding: 12px;
+    margin: 0;
+    background-color: black;
+    color: #fafafa;
+    height: 40px;
+}
+p{
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 100;
+}
+.price{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 15px;
+}

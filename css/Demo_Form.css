@@ -1,0 +1,17 @@
+input[type=text]{
+    float: left;
+    width: 200px;
+    color: red;
+    font-size: 15px;
+}
+input[type=email]{
+    float: left;
+    width: 250px;
+    color: green;
+    font-size: 15px;
+}
+input[name=pwd]{
+    float: left;
+    width: 250px;
+    color: deeppink;
+}
