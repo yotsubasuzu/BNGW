@@ -1,0 +1,14 @@
+.section{
+    float: left;
+    width: 100%;
+}
+.box1{
+   background-color: green;
+}
+.box2{
+    background-color: darkmagenta;
+}
+.tichok{
+    font-size: 50px;
+    color: #b92c28;
+}
